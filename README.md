@@ -1,2 +1,3 @@
 # react-pokedex-v2
-PrizePicks Pokedex Assement 
+
+PrizePicks Pokedex Assessment 
